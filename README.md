@@ -4,6 +4,11 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guigmartinsdev-cloud/guigmartinsdev-cloud/output/cobrinha-escura.svg">
+  <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/guigmartinsdev-cloud/guigmartinsdev-cloud/output/cobrinha.svg" width="100%">
+</picture>
+
 ### Sobre mim
 
 Desenvolvo sistemas web sob medida para pequenas e médias empresas: do primeiro rascunho ao servidor no ar.
